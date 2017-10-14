@@ -1,0 +1,3 @@
+object WalletServer extends App{
+
+}
